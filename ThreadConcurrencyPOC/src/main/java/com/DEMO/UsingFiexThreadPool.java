@@ -25,6 +25,8 @@ public class UsingFiexThreadPool {
 	//	executorService.execute(new LoopTaskA());
 		System.out.println("main thread stop here");
 		
+		System.out.println("*******************************************");
+		
 	}
 
 }
